@@ -8,4 +8,7 @@ Academic Free License
 X=Msgbox("連接Google帳號"0+-118)
 x=Msgbox1("連接Facebook帳號"0+-110
 if Clicked connect Msgbox1
+Just connect to Google
+if Clicked connect Msgbox
+Just connect to facebook
 
