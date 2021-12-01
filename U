@@ -11,7 +11,7 @@ if Clicked connect Msgbox1
 Just connect to Google
 if Clicked connect Msgbox
 Just connect to facebook
-echo "# Rico43.github.io-v.11.2" >> README.md
+echo "# Rico43.github.io-v.11.1" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
@@ -23,7 +23,7 @@ Connect to Google Calendar
 X=Msgbox2("聊天"-196+50)
 if Clicked connect Msgbox2
 Link page
-echo "# Rico43.github.io-v.11.2" >> README.md
+echo "# Rico43.github.io-v.11.1" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
