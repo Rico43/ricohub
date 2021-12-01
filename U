@@ -6,6 +6,6 @@ Academic Free License v2.1
 Academic Free License
 =====================
 X=Msgbox("連接Google帳號"0+-118)
-x=Msgbox("連接Facebook帳號"0+-110
-if Clicked connect  Google
+x=Msgbox1("連接Facebook帳號"0+-110
+if Clicked connect Msgbox1
 
