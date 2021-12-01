@@ -6,7 +6,7 @@ Academic Free License v2.1
 Academic Free License
 =====================
 X=Msgbox("連接Google帳號"0+-85)
-x=Msgbox1("連接Facebook帳號"0+-95)
+x=Msgbox1("連接Facebook帳號"0+-104)
 if Clicked connect Msgbox1
 Just connect to Google
 if Clicked connect Msgbox
@@ -20,7 +20,15 @@ git remote add origin git@github.com:Ricohub.11.1.git
 git push -u origin main
 if connect to Google
 Connect to Google Calendar
-
-
+X=Msgbox2("聊天"-196+50)
+if Clicked connect Msgbox2
+Link page
+echo "# Rico43.github.io-v.11.2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Rico43/Rico43.github.io-v.11.2.git
+git push -u origin main
 
 
