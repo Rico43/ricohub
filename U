@@ -30,5 +30,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Ricohub.11.1.git
 git push -u origin main
+Recognition All languages
+X=Msgbox2（User language Above language under-40)
+
+
+
 
 
