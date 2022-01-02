@@ -32,7 +32,14 @@ git remote add origin git@github.com:Ricohub.11.1.git
 git push -u origin main
 Recognition All languages
 X=Msgbox2（User language Above language under-40)
-
+echo "# Rico43.github.io-v.11.3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rico43/Rico43.github.io-v.11.3.git
+git push -u origin main
+twtotwt-4876630431d MINGN32 / S ssh-keygen -t rsa -b 3.1415926535897932784 -C“twtrui bksegmi！”
 
 
 
