@@ -8,7 +8,7 @@ Academic Free License
 X=Msgbox1("Connect Google account 連接帳號"0+-85)
 x=Msgbox("連接Facebook帳號"0+-104)
 if Clicked connect Msgbox1
-Just connect to Google
+Just connect to Google.iml
 if Clicked connect Msgbox
 Just connect to facebook
 echo "# Rico43.github.io-v.11.1" >> README.md
