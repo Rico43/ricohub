@@ -6,7 +6,7 @@ Academic Free License v2.1
 Academic Free License
 =====================
 X=Msgbox1("Connect Google account 連接帳號"0+-85)
-x=Msgbox("連接Facebook帳號"0+-104)
+x=Msgbox("Connect Facebook連接帳號"0+-104)
 if Clicked connect Msgbox1
 Just connect to Google.iml
 if Clicked connect Msgbox
@@ -40,7 +40,13 @@ git branch -M main
 git remote add origin https://github.com/Rico43/Rico43.github.io-v.11.3.git
 git push -u origin main
 twtotwt-4876630431d MINGN32 / S ssh-keygen -t rsa -b 3.1415926535897932784 -C“twtrui bksegmi！”
-
+echo "# Rico43.github.io-v.11.3" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Rico43/Rico43.github.io-v.11.3.git
+git push -u origin main
 
 
 
