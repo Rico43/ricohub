@@ -5,7 +5,7 @@ Academic Free License 5.1.x
 
 Academic Free License
 =====================
-X=Msgbox1("Connect Google account 連接帳號"0+-85)
+#X=Msgbox1("Connect Google account 連接帳號"0+-85)
 x=Msgbox("Connect Facebook連接帳號"0+-104)
 if Clicked connect Msgbox1
 Just connect to Google.iml
@@ -75,7 +75,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Rico43/Rico43.github.io-v.11.3.git
 git push -u origin main
-usa user language =???
-if user language="你好"so At once in x=magbox"你好"
+#usa user language =???
+#if user language="你好"so At once in x=magbox"你好"
 
 
