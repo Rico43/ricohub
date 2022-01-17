@@ -65,7 +65,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Rico43/Rico43.github.io-v.11.3.git
+git remote add origin Ricohub.git
 git push -u origin main
 twtotwt-4876630431d MINGN32 / S ssh-keygen -t rsa -b 3.1415926535897932784 -C“twtrui bksegmi！”
 echo "# Rico43.github.io-v.11.3" >> README.md
