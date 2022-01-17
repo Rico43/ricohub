@@ -16,19 +16,19 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:Ricohub.11.1.git
+git remote add origin Ricohub.git
 git push -u origin main
 if connect to Google
 Connect to Google Calendar
 X=Msgbox2("聊天"-196+50)
 if Clicked connect Msgbox2
 Link page
-echo "# Rico43.github.io-v.11.1" >> README.md
+echo "# Ricohub" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:Ricohub.11.1.git
+git remote add origin git@github.com:Ricohub.5.1.x.git
 git push -u origin main
 Recognition All languages
 {Redistribution. You may reproduce and distribute copies of the Work or
