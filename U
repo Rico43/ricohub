@@ -11,6 +11,9 @@ if Clicked connect Msgbox1
 Just connect to Google.iml
 if Clicked connect Msgbox
 Just connect to facebook
+����������<Name of Development Group> ��������������������� ��<Name of
+Institution> ����������������������� <URL for Development Group/Institution>
+
 echo "# Rico43.github.io-v.11.1" >> README.md
 git init
 git add README.md
