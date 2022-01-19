@@ -219,3 +219,5 @@ do OSS picture
 git add REDME.md
 git commit -m"first commit"
 git remmi-M main
+git remote add origin Ricohub git
+git push -u 原点主
