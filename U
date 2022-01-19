@@ -213,7 +213,7 @@ git branch -M main
 git remote add origin Ricohub git
 git push -u origin main
  "Software"), to deal
-in the Software without restriction, includin
+in the Software without restriction, inclu
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
