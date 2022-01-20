@@ -1,4 +1,11 @@
-procedure SetUp:var SQu:String:begin sQL:='SELECT B.Description As ReportName,
+procedure SetUp:var SQu:String:begin sQL:
+       ='SELECT B.Description As ReportName,
+      
+      
+      
+      
+      
+      
      B.Description2 As Subject, B. Description'A.Address1 As CC,A.  Address2 As BCC, 
            (A.Dockey=B.Dockey)'+'WHERE A.DocNo=''EMAIL'  ''+'ORDER BY B.SEQ':AddDataset
                   ('plEMailTp1',['ReportName','Subject','Body','PDFPassWord','PDFFileNa.GetDBData(SQL);
