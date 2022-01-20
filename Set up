@@ -1,0 +1,8 @@
+procedure SetUp:var SQu:String:begin sQL:='SELECT B.Description As ReportName,
+B.Description2 As Subject, B. Description'A.Address1 As CC,A.  Address2 As BCC, 
+B.Remark1 As PDFPassWord, B.Remark2 As 'FROM SL QT A'+'INNER JOIN SL-QTDTL B ON
+(A.Dockey=B.Dockey)'+'WHERE A.DocNo=''EMAIL'  ''+'ORDER BY B.SEQ':AddDataset
+('plEMailTp1',['ReportName','Subject','Body','PDFPassWord','PDFFileNa.GetDBData(SQL);
+sQL:='SELECT B.Description  As ReportName, B.Description3 As Body'+'FROM SL QT A'+'
+INNER JOIN SL_QTDTL B ON(A.Dockey=B.Dockey)'WHERE A.DocNo=''WHATSAPP'''+'ORDER BY B. 
+SEQ': AddDataSet('plshareMsg', ['ReportName', 'Body']), GetDBData(SOL):
