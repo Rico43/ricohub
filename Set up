@@ -1,5 +1,5 @@
 procedure SetUp:
-    var SQu:String:begin sQL:
+var SQu:String:begin sQL:
        ='SELECT B.Description As ReportName,
       
       
